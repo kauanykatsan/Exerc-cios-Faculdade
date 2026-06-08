@@ -1,0 +1,7 @@
+nome = input("informe seu nome completo: ")
+idade = input("infome sua idade: ")
+curso = input("informe seu curso: ")
+
+print(f"alunos: {nome} ")
+print(f"idade : {idade} ")
+print(f"curso : {curso}")
