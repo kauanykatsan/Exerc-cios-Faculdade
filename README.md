@@ -2,11 +2,11 @@
 
 Este repositório reúne exercícios e atividades desenvolvidos durante minha graduação em Ciência da Computação na UNOESC.
 
-## 💜 Sobre o Repositório
+## Sobre o Repositório
 
 Aqui estão armazenados exercícios práticos realizados durante as aulas, com o objetivo de desenvolver conhecimentos em lógica de programação, resolução de problemas e programação em Python.
 
-## 🛠️ Conteúdos Praticados
+## Conteúdos Praticados
 
 - Lógica de Programação
 - Estruturas Condicionais
@@ -16,7 +16,7 @@ Aqui estão armazenados exercícios práticos realizados durante as aulas, com o
 - Manipulação de Listas
 - Desenvolvimento de Sistemas Simples
 
-## 🚀 Exercícios e Projetos
+## Exercícios e Projetos
 
 - Antecessor e Sucessor
 - Avaliação Acadêmica - Média
