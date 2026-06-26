@@ -1,59 +1,21 @@
-# 📚 Exercícios de Python - UNOESC
+# 📚 Python Exercises - UNOESC
 
-Este repositório reúne exercícios e atividades desenvolvidos durante minha graduação em Ciência da Computação na UNOESC.
+This repository contains exercises and activities developed during my Computer Science degree at UNOESC.
 
-## Sobre o Repositório
+## 💜 About the Repository
 
-Aqui estão armazenados exercícios práticos realizados durante as aulas, com o objetivo de desenvolver conhecimentos em lógica de programação, resolução de problemas e programação em Python.
+This repository stores practical exercises completed during classes with the goal of developing knowledge in programming logic, problem-solving, and Python programming.
 
-## Conteúdos Praticados
+## 🛠️ Topics Covered
 
-- Lógica de Programação
-- Estruturas Condicionais
-- Estruturas de Repetição
-- Funções
-- Modularização
-- Manipulação de Listas
-- Desenvolvimento de Sistemas Simples
+- Programming Logic
+- Conditional Statements
+- Loops and Iteration
+- Functions
+- Modularization
+- List Manipulation
+- Development of Simple Systems
 
-## Exercícios e Projetos
+## 🎯 Purpose
 
-- Antecessor e Sucessor
-- Avaliação Acadêmica - Média
-- Cadastro Acadêmico
-- Calculadora Modular
-- Cálculo de Idade
-- Consumo de Combustível
-- Controle de Velocidade
-- Conversão de Temperatura
-- Cortar Números Negativos
-- Cálculo de IMC
-- Cálculo de Área
-- Folha de Pagamento
-- Função de Média
-- Função de Soma
-- Ler 5 Números e Armazenar em uma Lista
-- Maior Entre Dois Números
-- Maior Número
-- Modularização da Aprovação
-- Número Par ou Ímpar
-- Número Positivo ou Negativo
-- Operações Matemáticas
-- Receber uma Lista e Mostrar Apenas os Pares
-- Senha
-- Simulador de Compra Online
-- Sistema Completo de Notas
-- Sistema de Cantina
-- Soma Total
-- Tabuada
-- Verificação de Maioridade
-- Área do Retângulo
-
-## 🎯 Objetivo
-
-Registrar minha evolução durante a graduação e acompanhar meu aprendizado em programação.
-
----
-
-👩‍💻 Desenvolvido por **Kauany Katsan**  
-🎓 Ciência da Computação - UNOESC
+To document my progress throughout my degree and track my learning journey in programming.
