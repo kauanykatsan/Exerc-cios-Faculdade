@@ -16,6 +16,6 @@ This repository stores practical exercises completed during classes with the goa
 - List Manipulation
 - Development of Simple Systems
 
-## 🎯 Purpose
+##  Purpose
 
 To document my progress throughout my degree and track my learning journey in programming.
