@@ -1,12 +1,12 @@
-# 📚 Python Exercises - UNOESC
+#  Python Exercises - UNOESC
 
 This repository contains exercises and activities developed during my Computer Science degree at UNOESC.
 
-## 💜 About the Repository
+##  About the Repository
 
 This repository stores practical exercises completed during classes with the goal of developing knowledge in programming logic, problem-solving, and Python programming.
 
-## 🛠️ Topics Covered
+##  Topics Covered
 
 - Programming Logic
 - Conditional Statements
